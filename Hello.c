@@ -5,7 +5,7 @@
 int main(){
 
   puts("Hello!");
-  puts ("E
+  puts ("Hello!");
   return 0;
 
 }
